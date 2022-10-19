@@ -1,0 +1,20 @@
+   {
+   "mekanlar":[
+   {
+      ad: "Starbucks",
+      adres: "Centrum Garden AVM",
+      puan: "4",
+      imkanlar: ["Dünya Kahveleri", "Kekler", "Pastalar"],
+      mesafe: "10 km",
+      id: "1",
+    },
+    {
+      ad: "Gloria Jeans",
+      adres: "Sdü Doğu Kampüsü",
+      puan: "3",
+      imkanlar: ["Kahve", "Çay", "Pasta"],
+      mesafe: "5 km",
+      id: "2",
+    }
+  ]
+  }
