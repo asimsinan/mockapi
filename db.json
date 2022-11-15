@@ -1,19 +1,59 @@
 {
 	"mekanlar": [{
-			"ad": "Starbucks",
-			"adres": "Centrum Garden AVM",
-			"puan": "4",
-			"imkanlar": ["Dünya Kahveleri", "Kekler", "Pastalar"],
-			"mesafe": "10 km",
-			"id": "1"
-		},
+	"_id": "63712354dd57a41e8c3addc0",
+	"ad": "Starbucks",
+	"adres": "Centrum Garden",
+	"puan": 5,
+	"imkanlar": ["çay", "kahve", "pasta"],
+	"koordinat": [37.83226584629666, 30.524732239878013],
+	"saatler": [{
+		"_id": "63733545351a3b74e15cac52",
+		"gunler": "Pazartesi-Cuma",
+		"acilis": "9:00",
+		"kapanis": "23:00",
+		"kapali": false
+	}, {
+		"_id": "63733545351a3b74e15cac53",
+		"gunler": "Cumartesi-Pazar",
+		"acilis": "11:00",
+		"kapanis": "17:00",
+		"kapali": false
+	}],
+	"yorumlar": [{
+		"_id": "6371235d27be3a5fbb09449c",
+		"yorumYapan": "Veli",
+		"puan": 5,
+		"yorumMetni": "Kahveler harika",
+		"tarih": "2022-11-13T17:03:25.517Z"
+	}]
+},
 		{
-			"ad": "Gloria Jeans",
-			"adres": "Sdü Doğu Kampüsü",
-			"puan": "3",
-			"imkanlar": ["Kahve", "Çay", "Pasta"],
-			"mesafe": "5 km",
-			"id": "2"
-		}
+	"_id": "63712354dd57a41e8c3addc0",
+	"ad": "Gloria Jeans",
+	"adres": "SDÜ Doğu Kampüsü",
+	"puan": 3,
+	"imkanlar": ["çay", "kahve", "kek"],
+	"koordinat": [37.83226584629666, 30.524732239878013],
+	"saatler": [{
+		"_id": "63733545351a3b74e15cac52",
+		"gunler": "Pazartesi-Cuma",
+		"acilis": "9:00",
+		"kapanis": "23:00",
+		"kapali": false
+	}, {
+		"_id": "63733545351a3b74e15cac53",
+		"gunler": "Cumartesi-Pazar",
+		"acilis": "11:00",
+		"kapanis": "17:00",
+		"kapali": false
+	}],
+	"yorumlar": [{
+		"_id": "6371235d27be3a5fbb09449c",
+		"yorumYapan": "Hasan",
+		"puan": 3,
+		"yorumMetni": "Kahveler berbat",
+		"tarih": "2022-11-13T17:03:25.517Z"
+	}]
+}
 	]
 }
