@@ -1,4 +1,4 @@
-{
+{"dersler":{
 	"data": [{
 			"baslik": "React Öğreniyorum",
 			"url": "www.sdu.edu.tr",
@@ -16,4 +16,5 @@
 			"id": "1"
 		}
 	]
+}
 }
