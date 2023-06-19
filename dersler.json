@@ -1,0 +1,20 @@
+{
+  dersler:[
+{
+      baslik: "React Öğreniyorum",
+      url: "www.sdu.edu.tr",
+      yazar: "Sinan Yüksel",
+      yorum_sayisi: 3,
+      puan: 4,
+      id: 0,
+    },
+    {
+      baslik: "Web Teknolojileri ve Programlama",
+      url: "wwww.google.com.tr",
+      yazar: "Asım Yüksel",
+      yorum_sayisi: 2,
+      puan: 5,
+      id: 1,
+    }
+    ]
+}
