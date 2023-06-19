@@ -1,5 +1,5 @@
-{"data":{
-	"dersler": [{
+{
+	"data": [{
 			"baslik": "React Öğreniyorum",
 			"url": "www.sdu.edu.tr",
 			"yazar": "Sinan Yüksel",
@@ -16,5 +16,4 @@
 			"id": "1"
 		}
 	]
-}
 }
